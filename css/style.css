@@ -369,6 +369,11 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}
 /*CLASES*/
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
@@ -380,9 +385,12 @@ p {
 	color: #333;
 }
 
-.software{max-width: 80%; max-height: 80%; border-radius: 2px; margin-left:30px;} 
-.autor{max-width: 70%; max-height: 70%; border-radius: 5px; margin-left:30px;} 
-.autores{width: 518px; height: 238px; border-radius: 5px; margin-left:30px;} 
+.software{max-width: 80%; max-height: 80%; border-radius: 2px; margin-left:10px;} 
+.autor{max-width: 70%; max-height: 70%; border-radius: 5px; margin-left:10px;} 
+.autores{width: 518px; height: 238px; border-radius: 5px; margin-left:10px;} 
+.multimedia{width: 518px; height: 238px; border-radius: 5px; margin-left:10px;} 
+.lectura{width: 518px; height: 238px; border-radius: 5px; margin-left:10px;} 
+
 
 .menu > li {
     float:left;
